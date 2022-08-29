@@ -1,0 +1,3 @@
+@id=b9dd955a-f65e-486e-b2b7-1ac4f23141ff
+
+DELETE http://localhost:5117/breakfasts/{{id}}
